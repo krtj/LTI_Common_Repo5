@@ -9,6 +9,6 @@ public class Login {
 	
 	void register()
 	{
-		System.out.println("Pinto registerd in lti & and overwritten");
+		System.out.println("Pinto registerd and overwritten");
 	}
 }
