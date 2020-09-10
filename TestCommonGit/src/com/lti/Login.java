@@ -6,4 +6,8 @@ public class Login {
 		System.out.println("login added");
 	}
 	
+	void register()
+	{
+		System.out.println("Pinto registerd");
+	}
 }
