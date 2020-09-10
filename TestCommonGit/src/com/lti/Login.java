@@ -8,6 +8,6 @@ public class Login {
 	
 	void register()
 	{
-		System.out.println("Pinto registerd");
+		System.out.println("Pinto registerd in lti");
 	}
 }
